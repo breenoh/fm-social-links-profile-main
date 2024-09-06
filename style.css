@@ -75,7 +75,7 @@ p {
 .links {
     font-family: 'Inter';
     font-weight: bold;
-    
+
     text-decoration: none;
     background-color: var(--grey-700);
     width: 100%;
@@ -99,6 +99,3 @@ p {
     color: hsla(0, 0%, 100%, 0.308);
 }
 
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
